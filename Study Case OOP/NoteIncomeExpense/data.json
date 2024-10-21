@@ -1,0 +1,26 @@
+{
+   "Incomes": [
+      {
+         "name": "gaji bulanan",
+         "total": 100000,
+         "category": "Income"
+      },
+      {
+         "name": "projek freelance",
+         "total": 150000,
+         "category": "Income"
+      }
+   ],
+   "Expenses": [
+      {
+         "name": "bayar Listrik",
+         "total": 20000,
+         "category": "Expense"
+      },
+      {
+         "name": "bayar wifi",
+         "total": 70000,
+         "category": "Expense"
+      }
+   ]
+}

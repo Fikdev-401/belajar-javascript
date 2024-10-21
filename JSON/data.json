@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "name" : "Taufik",
+        "gpa" : 4
+    },
+    {
+        "id" : 2,
+        "name" : "Salsabila",
+        "gpa" : 4
+    },
+    {
+        "id" : 3,
+        "name" : "Fioni Natalia",
+        "gpa" : 4
+    }
+]

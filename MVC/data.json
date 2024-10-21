@@ -1,0 +1,27 @@
+[
+   {
+      "id": 1,
+      "course": "MVC",
+      "status": false
+   },
+   {
+      "id": 2,
+      "course": "PHP Basic",
+      "status": true
+   },
+   {
+      "id": 3,
+      "course": "Belajar Livewire",
+      "status": true
+   },
+   {
+      "id": 4,
+      "course": "HTML BASICS",
+      "status": true
+   },
+   {
+      "id": 5,
+      "course": "Learning JS",
+      "status": true
+   }
+]

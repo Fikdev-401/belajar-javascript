@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "songs": [
+            {
+                "id": 1,
+                "name": "Abadi",
+                "duration": 400,
+                "genre": "Pop"
+            },
+            {
+                "id": 2,
+                "name": "Abadi",
+                "duration": 400,
+                "genre": "Rock"
+            }
+        ]
+    }
+]
